@@ -2,7 +2,7 @@
 <img src="https://luodua.github.io/images/1.png" align="center" style="width: 100%;height:200px" />
 </div>  
 
-## Hey 👋, I'm YYHHJJ!  
+## Hey 👋, I'm Luodua!  
   
 <a href="https://github.com/luodua" target="_blank">
 </a>  

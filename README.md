@@ -27,7 +27,7 @@
 #### 人工智能药物推荐
 
 
-### 了解更多，我的博客地址：[不要点我](https://www.cnblogs.com/epiphanyone/) 
+### 我的博客地址：[epiphanyone](https://www.cnblogs.com/epiphanyone/) 
 
 <br/>  
 

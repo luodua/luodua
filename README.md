@@ -8,10 +8,7 @@
 </a>  
 
 ### 个人项目
-- 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 
-* * *
-#### 团队项目
 #### 基于P4的可编程网络系统 [项目地址](https://github.com/luodua/-P4-/tree/main) 
 这是一个前后端应用系统，由四人小组完成。
 * 基于P4编写交换机程序，实现对数据包的捕获和处理，提取所需的网络状态信息。
@@ -26,6 +23,7 @@
 这是一个AI验证码识别项目，由二人小组完成。
 #### 人工智能药物推荐
 
+- 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 
 ### 我的博客地址：[epiphanyone](https://www.cnblogs.com/epiphanyone/) 
 

@@ -14,16 +14,28 @@
 * 基于P4编写交换机程序，实现对数据包的捕获和处理，提取所需的网络状态信息。
 * 基于Python编写后端服务器程序，与前端通信，收集和处理交换机上的状态信息。然后处理请求。
 * 基于Vue和ECharts等前端技术，实现拓扑信息的可视化和网络状态的实时展示。
+
+#### 人工智能药物推荐
+前端运用 Vue3 和 Ant Design 库，后端运用 Python 编程语言开发。后端服务器对接训练完的组合药物推荐模型（基于Transfermer）。建立诊断，药物，手术相关数据库。该系统针对患者症状个性化诊断，推荐药物。同时可以管理推荐的历史数据
+<img width="1280" height="605" alt="无标题" src="https://github.com/user-attachments/assets/4dcc6d36-bde9-4fe5-b279-e2bf53c47db4" />
+<img width="1280" height="599" alt="无标题-1" src="https://github.com/user-attachments/assets/1589710f-194c-4e78-bdc9-eb067f1ac8c0" />
+
+
+
 #### 数独游戏设计          [项目地址](https://github.com/luodua/suduku2) 
 这是一个多线程生成9个数独的程序，前端Vue，ant design，JavaScript设计。后端使用Python语言，创建九个进程生成数独。
+
+#### 中文脚本引擎⚡[项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
+
+### 项目管理系统
+<img width="1280" height="709" alt="无标题" src="https://github.com/user-attachments/assets/d692ddc1-1c52-4ed4-8187-65fbb7d16c23" />
+
 
 #### LSTM音乐生成
 这是一个MIDI 音乐生成项目，由四人小组完成。
 #### AI验证码识别
 这是一个AI验证码识别项目，由二人小组完成。
-#### 人工智能药物推荐
 
-- 中文脚本引擎开发者⚡ [论坛首发开源地址](https://bbs.125.la/forum.php?mod=viewthread&tid=14442109&extra=) [项目github仓库](https://github.com/luodua/Chinese-Script-Engine/) 
 
 ### 我的博客地址：[epiphanyone](https://www.cnblogs.com/epiphanyone/) 
 

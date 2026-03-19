@@ -10,7 +10,7 @@ A developer passionate about building full-stack applications, exploring program
 - [Programmable Network System Based on P4](https://github.com/luodua/-P4-/tree/main) - A full-stack network monitoring and visualization platform, utilizing P4 for packet processing, Python for backend services, and Vue with ECharts for real-time topology display.
 
 - [3D Wave Simulation - Finite Difference Method](https://github.com/luodua/3D-Wave-Simulation---Finite-Difference-Method)
--  This project simulates 3D wave propagation using the explicit finite difference method to solve the wave equation. The simulation visualizes how a Gaussian pulse evolves over time in a 3D domain with fixed boundary conditions.
+This project simulates 3D wave propagation using the explicit finite difference method to solve the wave equation. The simulation visualizes how a Gaussian pulse evolves over time in a 3D domain with fixed boundary conditions.
 
 - AI-Powered Drug Recommendation System - A personalized healthcare platform that uses a Transformer-based model to recommend drug combinations based on patient symptoms, featuring a Vue3/Ant Design frontend and Python backend.
 

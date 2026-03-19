@@ -5,7 +5,7 @@ A developer passionate about building full-stack applications, exploring program
 ## 🛠️ My works
 
 **Featured Projects**
-- [AI Document Review Assistant - Your Romantic Writing Companion](https://github.com/luodua/-P4-/tree/main)  - AI Document Review Assistant is a web application that helps you proofread and review documents using AI. It supports both basic proofreading (formatting, punctuation, spacing checks) and AI-powered smart review with professional suggestions.
+- [AI Document Review Assistant - Your Romantic Writing Companion]([https://github.com/luodua/-P4-/tree/main](https://github.com/luodua/AI-Document-Review-Assistant---Your-Romantic-Writing-Companion/tree/main)  - AI Document Review Assistant is a web application that helps you proofread and review documents using AI. It supports both basic proofreading (formatting, punctuation, spacing checks) and AI-powered smart review with professional suggestions.
 
 
 - [Programmable Network System Based on P4](https://github.com/luodua/-P4-/tree/main) - A full-stack network monitoring and visualization platform, utilizing P4 for packet processing, Python for backend services, and Vue with ECharts for real-time topology display.

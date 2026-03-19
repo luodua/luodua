@@ -17,7 +17,8 @@ This project simulates 3D wave propagation using the explicit finite difference 
 **Tools & Applications**
 
 - [Chinese Script Engine](https://github.com/luodua/Chinese-Script-Engine/) - An open-source scripting engine designed for Chinese language automation and task processing.
-- [txt To RPG Map|RPG Map Generator]( https://github.com/luodua/txt-To-RPG-Map-RPG-Map-Generator) -
+
+- [txt To RPG Map | RPG Map Generator]( https://github.com/luodua/txt-To-RPG-Map-RPG-Map-Generator) -
 Simply describe your desired map scene in natural language, and with the built-in prompt templates, LLMs can generate complete JSON map configurations instantly. No need to manually arrange tiles - one-click rendering gives you RPG Maker-style pixel maps.
 **AI & Machine Learning**
 - LSTM Music Generation - A MIDI music composition system using Long Short-Term Memory networks to generate melodic sequences, developed in a four-person team.

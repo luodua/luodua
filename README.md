@@ -12,17 +12,13 @@ A developer passionate about building full-stack applications, exploring program
 
 - AI-Powered Drug Recommendation System - A personalized healthcare platform that uses a Transformer-based model to recommend drug combinations based on patient symptoms, featuring a Vue3/Ant Design frontend and Python backend.
 
-- Project Management System - A comprehensive project tracking and management application with interactive dashboards and team collaboration features.
 
 **Tools & Applications**
-- [Sudoku Game Generator](https://github.com/luodua/suduku2) - A multi-threaded Sudoku puzzle generator with Vue/JavaScript frontend and Python backend, producing nine unique puzzles simultaneously.
 
 - [Chinese Script Engine](https://github.com/luodua/Chinese-Script-Engine/) - An open-source scripting engine designed for Chinese language automation and task processing.
 
 **AI & Machine Learning**
 - LSTM Music Generation - A MIDI music composition system using Long Short-Term Memory networks to generate melodic sequences, developed in a four-person team.
-
-- AI Captcha Recognition - An intelligent verification code recognition system using computer vision techniques, built collaboratively in a two-person team.
 
 **Writing & Sharing**
 - Technical Blog: [epiphanyone](https://www.cnblogs.com/epiphanyone/) - Sharing insights on programming, networking, and AI development.

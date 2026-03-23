@@ -1,4 +1,4 @@
-## 👋 Hi, this is FunnyCat
+## 👋 Hi, this is luodua
 
 A developer passionate about building full-stack applications, exploring programmable networking, and creating practical AI tools. Enjoys tackling challenges across the entire software stack, from system-level programming to interactive frontends.
 
